@@ -7,7 +7,7 @@ namespace LinqConsoleApp
         static void Main(string[] args)
         {
             var d = new LinqSamples();
-            //d.Przyklad1();
+            d.Przyklad12();
         }
     }
 }
